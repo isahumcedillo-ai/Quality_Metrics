@@ -1,0 +1,28 @@
+# Carpetas de PyInstaller
+build/
+dist/
+
+# Archivos
+*.xlsx
+*.xls
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.env
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de VS Code
+.vscode/
+
+# Excel temporales
+~$*.xlsx
+
+# Ejecutables
+*.exe
